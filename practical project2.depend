@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1701897607 source:f:\level 3\graphic\practical project2\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	"game.h"
+	<stdlib.h>
+
+1701897622 f:\level 3\graphic\practical project2\game.h
+
+1701897628 source:f:\level 3\graphic\practical project2\game.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<ctime>
+	"game.h"
+
