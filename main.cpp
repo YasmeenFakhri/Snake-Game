@@ -51,7 +51,7 @@ void display_callback(){
         itoa(score,_score,10);
         char text[50]= "your score: ";
         strcat(text,_score);
-       // MessageBox(NULL,text,"Your Score : ","GAME OVER",0);
+        MessageBox(NULL,text,"GAME OVER",0);
         exit(0);
     }
 }
